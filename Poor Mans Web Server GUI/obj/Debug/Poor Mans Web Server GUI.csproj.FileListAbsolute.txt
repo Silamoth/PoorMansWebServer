@@ -1,0 +1,19 @@
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\Debug\Poor Mans Web Server GUI.exe.config
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.MainForm.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.Properties.Resources.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor Mans Web Server GUI.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\Debug\Poor Mans Web Server GUI.exe
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\Debug\Poor Mans Web Server GUI.pdb
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor Mans Web Server GUI.exe
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor Mans Web Server GUI.pdb
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.EditFiles.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.Editor.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.PortBox.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.FTPDialog.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.FTPHelp.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor_Mans_Web_Server_GUI.DefaultPageForm.resources
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor Mans Web Server GUI.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\obj\Debug\Poor Mans Web Server GUI.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\New\Poor Mans Web Server GUI.exe.config
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\New\Poor Mans Web Server GUI.exe
+C:\Users\Michael\Documents\Project Files\Poor Mans Web Server GUI\Poor Mans Web Server GUI\bin\New\Poor Mans Web Server GUI.pdb
